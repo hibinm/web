@@ -3620,8 +3620,8 @@ hr {
 	}
 
 	.dizme_tm_about .left .image img {
-		max-width: 300px;
-		max-height: 300px;
+		/*max-width: 300px;
+		max-height: 300px; */
 	}
 
 	.dizme_tm_about .right {
